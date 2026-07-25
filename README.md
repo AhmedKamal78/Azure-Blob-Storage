@@ -112,7 +112,7 @@ Detailed project documentation is available in:
 
 This project will evolve through multiple releases:
 
-| Release | Milestone | Status |
+| Release | Snapshot | Milestone | Status |
 |---|---|---|
 | [v1.0 Release](../../releases/tag/v1.0) | [v1.0 Files](../../tree/v1.0) | Azure Blob Storage Foundation | Completed |
 | v2.0 | C# Console Uploader using Azure SDK | Planned |
