@@ -17,7 +17,7 @@ Created an Azure Resource Group to organize all project resources.
 
 | Setting | Value |
 |---|---|
-| Resource Group | rg-azure-blob-storage- |
+| Resource Group | rg-azure-blob-storage |
 | Region | West US 3 |
 
 ---

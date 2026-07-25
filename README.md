@@ -82,7 +82,7 @@ Note:
 
 ## 5. Azure Storage Explorer Verification
 
-![Azure Storage Explorer](Screenshots/StorageExplorer/05-storage-explorer.png)
+![Azure Storage Explorer](Screenshots/StorageExplorer/01-storage-explorer.png)
 
 ---
 
