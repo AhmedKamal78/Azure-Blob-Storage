@@ -114,11 +114,11 @@ This project will evolve through multiple releases:
 
 | Release | Snapshot | Milestone | Status |
 |---|---|---|---|
-| [v1.0 Release](../../releases/tag/v1.0) | [v1.0 Files](../../tree/v1.0) | Azure Blob Storage Foundation | Completed |
-| v2.0 | C# Console Uploader using Azure SDK | Planned |
-| v3.0 | WinUI 3 Desktop Application | Planned |
-| v4.0 | ASP.NET Core Web API Integration | Planned |
-| v5.0 | Enterprise Features (Entra ID, Key Vault, Monitoring, CI/CD) | Planned |
+| [v1.0 Release](../../releases/tag/v1.0) | [v1.0 Snapshot](../../tree/v1.0) | Azure Blob Storage Foundation | Completed |
+| v2.0 Release | v2.0 Snapshot | C# Console Uploader using Azure SDK | Planned |
+| v3.0 Release | v3.0 Snapshot | WinUI 3 Desktop Application | Planned |
+| v4.0 Release | v4.0 Snapshot | ASP.NET Core Web API Integration | Planned |
+| v5.0 Release | v5.0 Snapshot | Enterprise Features (Entra ID, Key Vault, Monitoring, CI/CD) | Planned |
 
 ---
 
